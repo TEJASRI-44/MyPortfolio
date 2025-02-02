@@ -1,0 +1,12 @@
+div{
+             display: flex;
+            align-items: center;
+            justify-content: space-around; /* Evenly space items horizontally */
+            padding: 10px;
+            background-color: black;
+            color: white;
+    
+}
+body{
+    background-color: black;
+}
